@@ -11,3 +11,12 @@ Dataset contains two datatypes: int64 (numerical), float64(numerical) and object
 Null values: There are bunch of Null values present in rating column as well as in android ver, current ver and Type columns.
 
 Drop dulpicate , Replace all missing value with NaN value and perform some analysis in order to clean and organize data.
+
+
+Data insights:
+App with large number of reviews is Facebook
+Rating of application in each category is not different too much but event and education got highest Rating.
+Game and Family category are the most appearances for application in store
+Most of application in this store are free (93.1%).
+Average of price is around 0.96, but most of them are free (8715 from 9360).
+The most expensive app is 400 dollar !!!.
