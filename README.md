@@ -1,4 +1,5 @@
-# GoogleAppRating-Analyst
+# GoogleAppRating-Analyst 
+
 The project is an analysis about the profitable App profiles for both the App Store and Google Paly market.
 We will find out what type of free apps are likely to attract more users, in other words, the most common genres for each market.
 To do this, we'll need to collect and analyze data about mobile apps available on Google Play and the App Store.
