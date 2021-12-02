@@ -15,9 +15,8 @@ Drop dulpicate , Replace all missing value with NaN value and perform some analy
 
 
 Data insights:
-App with large number of reviews is Facebook
-
-Rating of application in each category is not different too much but event and education got highest Rating.
+- App with large number of reviews is Facebook
+- Rating of application in each category is not different too much but event and education got highest Rating.
 
 Game and Family category are the most appearances for application in store
 
